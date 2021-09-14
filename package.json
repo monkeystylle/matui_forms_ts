@@ -5,13 +5,17 @@
   "dependencies": {
     "@emotion/cache": "latest",
     "@emotion/react": "latest",
-    "@emotion/styled": "latest",
     "@emotion/server": "latest",
+    "@emotion/styled": "latest",
     "@material-ui/core": "next",
+    "@types/material-ui": "^0.21.9",
+    "@types/yup": "^0.29.13",
     "clsx": "latest",
+    "formik": "^2.2.9",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "yup": "^0.32.9"
   },
   "scripts": {
     "dev": "next",
